@@ -1,4 +1,4 @@
 # Numerical-Methods-2022
-Homework for Numerical Methods Using Matlab(4th Edition), Prof. Zhengdong Huang, MSE, HUST.
+Homework on Numerical Methods Using Matlab(4th Edition), Fall 2022, Prof. Zhengdong Huang, MSE, HUST.
 
 Best wishes to all of you!
